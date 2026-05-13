@@ -15,14 +15,14 @@ Genera una tabla limpia con las siguientes columnas: "Atributo | G-Power | Anime
 - En "Anime (Atr. Principal)", indica el atributo canónico y los Gs base.
 - En "Gears*", indica el nombre del Battle Gear, BakuNano o Mechtogan asociado. Si no tiene, escribe "N/A".
 
-MINIATURA (IMAGEN LIVIANA):
-Justo después de la tabla y OBLIGATORIAMENTE antes del punto 1.1, debes mostrar la imagen destacada (thumbnail) del Bakugan extraída de la Wiki. Asegúrate de usar la versión miniatura de la imagen (pocos KB) y muéstrala utilizando estrictamente el formato Markdown sin título o texto alternativo: ![](URL_DE_LA_IMAGEN)
+MINIATURA (IMAGEN DEL BAKUGAN):
+Justo después de la tabla y OBLIGATORIAMENTE antes del punto 1.1, debes insertar la imagen oficial del Bakugan. Para ello, utiliza tus herramientas nativas/internas de búsqueda y visualización de imágenes. NO utilices enlaces de texto en formato Markdown crudo como ![](URL) ya que no se renderizan bien en la interfaz. Simplemente inserta la imagen del personaje basándote en la Wiki.
 
 1.1 ENLACE A LA FUENTE OFICIAL:
 Inmediatamente debajo de la miniatura, debes colocar el enlace exacto que extrajiste de la columna "Link" del archivo, presentándolo como un enlace clickeable. (Ejemplo: [Enlace oficial a la Wiki del Bakugan](URL)).
 
 2. VARIACIONES Y EVOLUCIONES:
-Debes listar las variaciones, contrapartes o evoluciones de ese Bakugan. Para que sea muy fácil sombrear y copiar cada nombre, envuelve cada uno individualmente en formato de código en línea usando acentos graves (Ejemplo: `Neo Dragonoid Vortex`, `Cross Dragonoid`). NO uses etiquetas HTML y omite estrictamente cualquier marca de citación automática (como[cite: 1]) en esta lista.
+Debes listar las variaciones, contrapartes o evoluciones de ese Bakugan. Para que sea muy fácil sombrear y copiar cada nombre, envuelve cada uno individualmente en formato de código en línea usando acentos graves (Ejemplo: `Neo Dragonoid Vortex`, `Cross Dragonoid`). NO uses etiquetas HTML y omite estrictamente cualquier marca de citación automática en esta lista.
 
 3. PREGUNTAS INTERACTIVAS (OBLIGATORIO):
 Incluye siempre estas opciones al final para mantener el flujo:
