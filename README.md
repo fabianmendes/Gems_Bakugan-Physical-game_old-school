@@ -16,10 +16,22 @@ Este proyecto nació de la necesidad de extraer, limpiar y estructurar miles de 
 
 ## 🛠️ Stack & Herramientas
 
-* **Python & Pandas:** Limpieza y estructuración del archivo maestro en formato `.xlsx` separado por temporadas (S1 a S4).
+* **Python & Pandas:** Limpieza y estructuración del archivo maestro en formato `.csv` separado por temporadas (S1 a S4). Con una pestana principal de archivo maestro para poder ser procesado por el Gemini desde el `gSheets` 
+
 * **BeautifulSoup & Requests (Web Scraping):** Automatización de extracción de Infoboxes desde Fandom/Wikia.
 * **Google Gemini (Gems):** Motor de Procesamiento de Lenguaje Natural y razonamiento lógico para cruzar los datos.
+
+
+[![gColabs Badge](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/drive/1Rj9r4xzLbDmMww4n8XbGruGe2fqn6hZ6?usp=sharing)
+[![gSheets Badge](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)](https://docs.google.com/spreadsheets/d/1g8TjyF7CRJYDMCVDxPnjEMgLlBZ3dO8bOfS_tF7NLYA/edit?usp=sharing)
+[![gGemini Badge](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://gemini.google.com/gem/16PXYJfSoG9dfOJaEcexz4MLqSqY3GlFz?usp=sharing)
+![gGemini Badge](https://img.shields.io/badge/Wiki%20js-1976D2?style=for-the-badge&logo=Wikidotjs&logoColor=white)
+
+![by-sa](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 
 ## 🚀 Cómo funciona
 
 Al preguntarle al Agente por un Bakugan (Ej. *"Alpha Hydranoid"*), este procesa el archivo maestro y devuelve instantáneamente una tabla cruzando los G-Powers físicos vs. los datos canónicos del anime, ofreciendo rutas interactivas para expandir el conocimiento del usuario.
+
+
+(v.0.1.4)
