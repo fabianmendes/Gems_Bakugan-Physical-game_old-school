@@ -1,4 +1,4 @@
-# 🐲 Bakugan Data Expert 🐉 - 🧾eConsulting: Gs & More
+# 🐲 Bakugan Data Expert🐉 🧾eConsulting: Gs & More
 
 Un agente de IA personalizado (Gem) impulsado por el modelo de Gemini, diseñado específicamente para actuar como la enciclopedia técnica y definitiva de la franquicia Bakugan. 
 
