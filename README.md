@@ -1,8 +1,10 @@
-# 🐉 Bakugan Data Expert - Custom Gemini Agent
+# 🐲 Bakugan Data Expert 🐉 - 🧾eConsulting: Gs & More
 
 Un agente de IA personalizado (Gem) impulsado por el modelo de Gemini, diseñado específicamente para actuar como la enciclopedia técnica y definitiva de la franquicia Bakugan. 
 
 Este proyecto nació de la necesidad de extraer, limpiar y estructurar miles de datos dispersos sobre el poder G (G-Power) del juego físico y el anime, convirtiéndolos en una base de conocimiento consultable mediante lenguaje natural.
+
+[![Google Badge](https://img.shields.io/badge/Google-Gems-blue?style=flat&logo=google)](https://gemini.google.com/gem/16PXYJfSoG9dfOJaEcexz4MLqSqY3GlFz?usp=sharing)
 
 ## ✨ Características Principales (Features)
 
