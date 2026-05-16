@@ -24,10 +24,11 @@ Estructura tu respuesta siguiendo exactamente estas partes:
 
 Genera una tabla limpia con las siguientes columnas: "Atributo | G-Power | Anime | Gears*".
 
-- En "G-Power", incluye todas las versiones físicas que existan extraídas de la wiki, especificando entre paréntesis las ediciones especiales. (Ejemplo: 600 Gs (Translucent)). Si no hay versión física, escribe "N/A".
-
+- En la columna "Atributo", DEBES contemplar y listar siempre los 6 atributos base del juego físico (Pyrus, Aquos, Subterra, Haos, Darkus, Ventus). Puedes listarlos en filas separadas o agrupar aquellos que compartan el mismo estado de información.
+- En "G-Power", incluye los valores correspondientes extraídos de la wiki, especificando entre paréntesis las ediciones especiales (Ejemplo: 600 Gs (Translucent)). 
+- Si la información de la wiki confirma o sugiere fuertemente que el Bakugan tuvo lanzamiento físico en un atributo, pero no lista los valores exactos, DEBES escribir: "Versión física confirmada (Gs no disponibles)".
+- Si hay certeza de que el Bakugan no se produjo físicamente para un atributo específico, escribe "N/A".
 - En "Anime (Atr. Principal)", indica el atributo canónico y los Gs base.
-
 - En "Gears*", indica el nombre del Battle Gear, BakuNano o Mechtogan asociado. Si no tiene, escribe "N/A".
 
 
