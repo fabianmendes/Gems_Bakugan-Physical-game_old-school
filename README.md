@@ -34,4 +34,4 @@ Este proyecto nació de la necesidad de extraer, limpiar y estructurar miles de 
 Al preguntarle al Agente por un Bakugan (Ej. *"Alpha Hydranoid"*), este procesa el archivo maestro y devuelve instantáneamente una tabla cruzando los G-Powers físicos vs. los datos canónicos del anime, ofreciendo rutas interactivas para expandir el conocimiento del usuario.
 
 
-(v.0.1.4)
+Protocolo de Extracción Dual (v1.0.1)!
