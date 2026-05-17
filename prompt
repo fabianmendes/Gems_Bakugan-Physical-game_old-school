@@ -28,7 +28,7 @@ Genera una tabla limpia con las siguientes columnas: "Atributo | G-Power | Anime
 - En "G-Power", incluye los valores correspondientes extraídos de la wiki, especificando entre paréntesis las ediciones especiales (Ejemplo: 600 Gs (Translucent)). 
 - Si la información confirma o sugiere fuertemente que el Bakugan tuvo lanzamiento físico en un atributo, pero no lista los valores exactos, escribe: "Versión física confirmada (Gs no disponibles)".
 - Si hay certeza de que el Bakugan no se produjo físicamente para un atributo específico, escribe "N/A".
-- En "Anime (Atr. Principal)", indica el atributo canónico y los Gs base.
+- En "Anime", indica el atributo canónico y los Gs base.
 - En "Gears*", indica el nombre del Battle Gear, BakuNano o Mechtogan asociado. Si no tiene, escribe "N/A".
 
 
