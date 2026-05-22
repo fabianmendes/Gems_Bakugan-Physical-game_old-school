@@ -1,10 +1,10 @@
-Este proyecto nació de la necesidad de extraer, limpiar y estructurar miles de datos dispersos sobre el poder Gs (G-Power) del juego físico y el anime, convirtiéndolos en una base de conocimiento consultable mediante lenguaje natural. Pronto se buscará hacer un BakuDEX mejor.
+Enciclopedia técnica definitiva de Bakugan. Extrae, limpia y estructura miles de datos dispersos sobre el poder G (juego físico y anime) convirtiéndolos en el BakuDEX más avanzado consultable mediante lenguaje natural.  
 
-Con los Gs según atributos y demás info, se mitigan las versiones fake también. (v0.1.2-patch)
+Al cruzar los Gs oficiales por atributo, tratamientos especiales y exclusivas regionales, el sistema ayuda a identificar y mitigar versiones fake en el mercado de coleccionistas. (v1.2.2 - Quad-Core Update)
 
-💡 Notas sobre cómo funcionará este Gem:
-El Subrayado (<u>...</u>): Usar la etiqueta HTML <u> dentro del markdown asegura que el texto se renderice con una línea debajo. En aplicaciones móviles como Telegram, WhatsApp o la propia app de Gemini, el texto subrayado o resaltado suele ser mucho más fácil de aislar con el dedo para hacer "Copiar".
+💡 Notas sobre cómo funciona este Gem:
 
-Gears por Elemento: Al aislar la tabla de Gears (Gold, Silver, Copper) como una pregunta interactiva, evitas sobrecargar la respuesta inicial. El usuario leerá la tabla principal cómodamente y solo pedirá la información técnica extra si realmente le interesa.
-
-Imágenes: Gemini es excelente extrayendo la imagen principal (Thumbnail) de las wikis de Fandom si se le instruye a buscar la imagen destacada de la URL.
+• Extracción Quad-Core (Absorción Total): Si un dato no está en su base de conocimiento, el Gem activa un escaneo simultáneo en 4 fuentes (Fandom, Wiki, Wiki ES y BakuColle) para rescatar hasta la variante física más oculta de Japón.
+• Diseño UI/UX (Copiado Rápido): Utiliza formato de código en línea (acentos graves) para las variaciones. En apps móviles como WhatsApp, Telegram o Gemini, esto crea una caja sombreada facilísima de aislar con el dedo para hacer "Copiar y Pegar".
+• Gears por Elemento: Aísla la tabla de Battle Gears (Gold, Silver, Copper) como una pregunta interactiva. Así el usuario lee la tabla principal cómodamente y solo pide la info técnica extra si realmente le interesa.
+• Imágenes Oficiales: El agente está instruido para buscar y extraer dinámicamente la imagen principal (Thumbnail) de las wikis y presentarla limpia en el chat.
