@@ -9,10 +9,14 @@ Este proyecto nació de la necesidad de extraer, limpiar y estructurar miles de 
 ## ✨ Características Principales (Features)
 
 * **Extracción Precisa de G-Power:** Proporciona tablas detalladas de poder separadas por Atributos (Pyrus, Aquos, Subterra, Haos, Darkus, Ventus, Clear), incluyendo ediciones especiales exclusivas (Translucent, Japan releases, BakuEvolutions).
-* **Fidelidad de Datos (Extracción Cruzada):** El agente está programado bajo una estricta directiva de consultar primero la base de datos local. Si un dato no existe, el bot informa al usuario con total transparencia y realiza un _fallback_ automático de **Búsqueda Dual**, cruzando datos entre `bakugan.fandom.com` (canon del anime) y `bakugan.wiki` (juego físico) para entregar la lista más exhaustiva.
+* **Fidelidad de Datos (Quad-Core Scraping):** El agente está programado bajo una estricta directiva de consultar primero la base de datos local. Si un dato no existe, el bot realiza un _fallback_ automático de **Búsqueda Multifuente**, cruzando datos entre 4 dominios vitales:
+  1. `bakugan.fandom.com/wiki/` (Canon occidental y Nombre en Japonés)
+  2. `bakugan.wiki/wiki/` (Juego físico occidental)
+  3. `bakugan.fandom.com/es/wiki/` (Complementos y tratamientos físicos ocultos como *Pearl*)
+  4. `bakucolle.com/search` (Base de datos de coleccionistas para exclusivas niponas).
 * **Integración de Battle Gears & Evoluciones:** Identifica y vincula automáticamente los Battle Gears, BakuNanos y Mechtogans asociados a cada Bakugan.
 * **Diseño UI/UX Optimizado:** Las variaciones y evoluciones de los Bakugan se renderizan utilizando formato de **código en línea** (acentos graves `` ` ``), eliminando las antiguas etiquetas HTML. Esto facilita aislar el texto para dar doble toque y "Copiar y Pegar" rápidamente desde cualquier dispositivo.
-* **Agente Interactivo:** No solo entrega datos, sino que guía la conversación. El bot pregunta proactivamente si el usuario desea desglosar el poder de los Battle Gears por tratamientos de metal (Gold, Silver, Copper) o si requiere la extracción/generación directa del *Thumbnail* (imagen oficial) desde la Wiki.
+* **Agente Interactivo:** No solo entrega datos, sino que guía la conversación. El bot pregunta proactivamente si el usuario desea desglosar el poder de los Battle Gears por tratamientos de metal (Gold, Silver, Copper) o si requiere la extracción/generación directa del *Thumbnail* (imagen oficial).
 
 ## 🛠️ Stack & Herramientas
 
@@ -20,7 +24,6 @@ Este proyecto nació de la necesidad de extraer, limpiar y estructurar miles de 
 
 * **BeautifulSoup & Requests (Web Scraping):** Automatización de extracción de Infoboxes desde Fandom/Wikia.
 * **Google Gemini (Gems):** Motor de Procesamiento de Lenguaje Natural y razonamiento lógico para cruzar los datos.
-
 
 [![gColabs Badge](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/drive/1Rj9r4xzLbDmMww4n8XbGruGe2fqn6hZ6?usp=sharing)
 [![gSheets Badge](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)](https://docs.google.com/spreadsheets/d/1g8TjyF7CRJYDMCVDxPnjEMgLlBZ3dO8bOfS_tF7NLYA/edit?usp=sharing)
@@ -31,7 +34,4 @@ Este proyecto nació de la necesidad de extraer, limpiar y estructurar miles de 
 
 ## 🚀 Cómo funciona
 
-Al preguntarle al Agente por un Bakugan (Ej. *"Alpha Hydranoid"*), este procesa el archivo maestro y devuelve instantáneamente una tabla cruzando los G-Powers físicos vs. los datos canónicos del anime, ofreciendo rutas interactivas para expandir el conocimiento del usuario.
-
-
-Protocolo de Extracción Cruzada de Datos (v1.1.2)!
+Al preguntarle al Agente por un Bakugan (Ej. *"Alpha Hydranoid"*), este procesa el archivo maestro y devuelve instantáneamente una tabla cruzando los G-Powers físicos vs. los datos canónicos del anime, ejecutando su **Protocolo de Extracción Quad-Core (v1.2.0)** para ofrecer rutas interactivas y expandir el conocimiento del usuario de manera perfecta.
