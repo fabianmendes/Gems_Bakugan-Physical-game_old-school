@@ -1,1 +1,5 @@
-Reference to Google Drive Sheet
+{
+  "url": "https://docs.google.com/spreadsheets/d/1NPQswmKXrbABhltKXT6fFVF7AW5kzPLsTe3MVA_VfaM",
+  "resource_id": "spreadsheet:1NPQswmKXrbABhltKXT6fFVF7AW5kzPLsTe3MVA_VfaM",
+  "email": "fabian.mendes.pro@gmail.com"
+}
